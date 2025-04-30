@@ -1,0 +1,199 @@
+ID Race,Race,ID Year,Year,ID Poverty Status,Poverty Status,Poverty Population,Poverty Population Moe,Geography,ID Geography,Slug Geography,share,Sex,ID Sex
+1,"White",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",8085,798.3100901278901,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.1087234242835819,"Male",0
+1,"White",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",8216,715.0461523566154,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.11048505305057622,"Female",1
+2,"Black",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",13950,1115.6858876942022,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.18759329236313757,"Male",0
+2,"Black",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",19804,1284.2523116584216,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.26631523741645713,"Female",1
+3,"Native American",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",154,97.73433378296492,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.002070922367306322,"Male",0
+3,"Native American",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",124,85.79627031520658,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0016674959321167785,"Female",1
+4,"Asian",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",926,195.09741156663253,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.012452429299517233,"Male",0
+4,"Asian",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",1191,290.19303919977125,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.016016029477024865,"Female",1
+5,"Pacific Islander",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",3,97.18024490605073,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00004034264351895432,"Male",0
+5,"Pacific Islander",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",0,100.9554357129917,"St. Louis city, MO","05000US29510","st-louis-city-mo",0,"Female",1
+6,"Other",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",428,188.73791352030995,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.005755550475370816,"Male",0
+6,"Other",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",200,141.8626095911111,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.002689509567930288,"Female",1
+7,"Two Or More",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",1311,280.51024936711315,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01762973521778304,"Male",0
+7,"Two Or More",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",1774,375.1812895121504,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.023855949867541654,"Female",1
+8,"White Non-Hispanic",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",7506,759.0810233433583,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.1009372940844237,"Male",0
+8,"White Non-Hispanic",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",7891,694.4551821392076,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.1061146000026895,"Female",1
+9,"Hispanic",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",1589,328.0167678640834,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.021368153517206136,"Male",0
+9,"Hispanic",2023,"2023",0,"Income In The Past 12 Months Below Poverty Level",1211,285.7411415949758,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.016284980433817892,"Female",1
+1,"White",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",8642,807.2453158736815,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.1131373960856189,"Male",0
+1,"White",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",8035,718.0452631972444,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10519080971394908,"Female",1
+2,"Black",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",15027,1136.586996230381,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.19672710610722,"Male",0
+2,"Black",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",21390,1320.8069503148445,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.28002880146625647,"Female",1
+3,"Native American",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",104,87.03447592764606,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0013615238593964784,"Male",0
+3,"Native American",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",80,77.0129859179606,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0010473260456895987,"Female",1
+4,"Asian",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",988,191.5698306101459,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.012934476664266545,"Male",0
+4,"Asian",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",1044,344.66940682340805,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.013667604896249264,"Female",1
+5,"Pacific Islander",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",2,97.12363255150622,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00002618315114223997,"Male",0
+5,"Pacific Islander",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",0,100.9554357129917,"St. Louis city, MO","05000US29510","st-louis-city-mo",0,"Female",1
+6,"Other",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",371,156.19218930535547,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.004856974536885514,"Male",0
+6,"Other",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",298,163.28502687019406,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0039012895201937553,"Female",1
+7,"Two Or More",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",969,229.12005586591496,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.012685736728415265,"Male",0
+7,"Two Or More",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",1423,310.34174711114844,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.018629312037703738,"Female",1
+8,"White Non-Hispanic",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",7922,772.6428670479007,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10371146167441252,"Male",0
+8,"White Non-Hispanic",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",7505,681.4169061595112,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09825227466125548,"Female",1
+9,"Hispanic",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",1404,292.8651566847787,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01838057210185246,"Male",0
+9,"Hispanic",2022,"2022",0,"Income In The Past 12 Months Below Poverty Level",1181,283.5524642813037,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.015461150749492702,"Female",1
+1,"White",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",8326,742.7550067148655,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.11090981750366324,"Male",0
+1,"White",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",7721,675.9156752140018,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10285067270547489,"Female",1
+2,"Black",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",15126,1121.3286761694808,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.2014919408552018,"Male",0
+2,"Black",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",21507,1305.9666917651462,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.28649260690022643,"Female",1
+3,"Native American",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",156,111.33283433021906,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0020780604768882377,"Male",0
+3,"Native American",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",41,90.14987520790031,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.000546156920207806,"Female",1
+4,"Asian",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",1004,172.7946758439044,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.013374184094844812,"Male",0
+4,"Asian",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",1247,223.5531256770972,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.016611162914613026,"Female",1
+5,"Pacific Islander",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",0,100.9554357129917,"St. Louis city, MO","05000US29510","st-louis-city-mo",0,"Male",0
+5,"Pacific Islander",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",0,100.9554357129917,"St. Louis city, MO","05000US29510","st-louis-city-mo",0,"Female",1
+6,"Other",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",409,163.71010964506743,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0054482483015851875,"Male",0
+6,"Other",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",359,156.98089055678082,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.004782203276941521,"Female",1
+7,"Two Or More",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",761,191.9400948212749,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.010137205275076595,"Male",0
+7,"Two Or More",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",1212,291.91437100629355,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01614493139736246,"Female",1
+8,"White Non-Hispanic",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",7729,709.3193920935759,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10295723990941788,"Male",0
+8,"White Non-Hispanic",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",7231,643.2254659137805,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09632343146396696,"Female",1
+9,"Hispanic",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",1229,282.7401634009573,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.016371386705741307,"Male",0
+9,"Hispanic",2021,"2021",0,"Income In The Past 12 Months Below Poverty Level",1012,226.78624296901256,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.013480751298787797,"Female",1
+1,"White",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",8549,746.544037549025,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10972213309375602,"Male",0
+1,"White",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",8005,670.8233746672815,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10274016556503883,"Female",1
+2,"Black",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",16101,1074.9381377549128,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.20664827055124174,"Male",0
+2,"Black",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",22650,1270.7391549802817,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.29070140537765515,"Female",1
+3,"Native American",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",91,92.6444817568753,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.001167939421164089,"Male",0
+3,"Native American",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",66,111.98660634200859,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0008470769428223063,"Female",1
+4,"Asian",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",1211,204.13720875920686,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.015542578450875954,"Male",0
+4,"Asian",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",1184,208.13457185196313,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01519604697426683,"Female",1
+5,"Pacific Islander",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",0,100.9554357129917,"St. Louis city, MO","05000US29510","st-louis-city-mo",0,"Male",0
+5,"Pacific Islander",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",6,97.41149829460585,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00007700699480202785,"Female",1
+6,"Other",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",499,221.74309459372122,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.006404415067701983,"Male",0
+6,"Other",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",605,226.15923593786744,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.007764871975871141,"Female",1
+7,"Two Or More",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",555,173.87351724745204,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.007123147019187576,"Male",0
+7,"Two Or More",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",1076,315.7910701714031,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.013809921067830327,"Female",1
+8,"White Non-Hispanic",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",7610,693.3087335379528,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09767053840723866,"Male",0
+8,"White Non-Hispanic",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",7220,631.3675633099946,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09266508374510685,"Female",1
+9,"Hispanic",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",1309,290.83500477074625,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.016800359365975744,"Male",0
+9,"Hispanic",2020,"2020",0,"Income In The Past 12 Months Below Poverty Level",1178,251.72206895701459,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.015119039979464802,"Female",1
+1,"White",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",8893,643.7794653450824,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10624215996654919,"Male",0
+1,"White",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",8548,594.5250204995582,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10212054238098082,"Female",1
+2,"Black",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",18238,994.7959589785235,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.2178842363060749,"Male",0
+2,"Black",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",24380,1103.513932852685,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.29126097604683115,"Female",1
+3,"Native American",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",80,93.34880824091971,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0009557374111462876,"Male",0
+3,"Native American",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",56,109.57645732546752,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0006690161878024013,"Female",1
+4,"Asian",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",1226,218.32086478392299,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.014646675825816857,"Male",0
+4,"Asian",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",1189,206.1819584735774,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.014204647273161699,"Female",1
+5,"Pacific Islander",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",50,92.21713506718802,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0005973358819664297,"Male",0
+5,"Pacific Islander",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",86,90.50966799187809,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.001027417716982259,"Female",1
+6,"Other",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",400,173.1531114360929,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.004778687055731438,"Male",0
+6,"Other",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",650,208.6336502101231,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.007765366465563586,"Female",1
+7,"Two Or More",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",838,197.01522783785015,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.010011349381757363,"Male",0
+7,"Two Or More",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",778,189.64440408301004,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.009294546323397646,"Female",1
+8,"White Non-Hispanic",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",7852,582.0884812466228,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09380562690400812,"Male",0
+8,"White Non-Hispanic",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",7414,550.0063635995497,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0885729645779822,"Female",1
+9,"Hispanic",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",1445,256.8209493012593,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.017263006988829818,"Male",0
+9,"Hispanic",2019,"2019",0,"Income In The Past 12 Months Below Poverty Level",1582,265.42230501598766,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.018899707305417835,"Female",1
+1,"White",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",9084,655.3235841933357,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0983212650582849,"Male",0
+1,"White",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",9379,628.6620713865279,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.101514216752714,"Female",1
+2,"Black",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",20681,1062.1911315766104,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.22384214912707948,"Male",0
+2,"Black",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",28368,1119.1385079604759,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.30704289378835603,"Female",1
+3,"Native American",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",47,90.93954035511726,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0005087075580954855,"Male",0
+3,"Native American",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",66,109.76338187209795,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.000714355294346852,"Female",1
+4,"Asian",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",1281,204.88045294756648,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.013864986849368445,"Male",0
+4,"Asian",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",1037,190.2104098097683,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.011224036973298265,"Female",1
+5,"Pacific Islander",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",36,89.40357934669059,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00038964834237101016,"Male",0
+5,"Pacific Islander",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",63,88.1873006730561,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0006818845991492677,"Female",1
+6,"Other",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",537,228.87114278562944,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.005812254440367568,"Male",0
+6,"Other",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",638,213.31900993582357,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.006905434512019569,"Female",1
+7,"Two Or More",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",964,216.51789764358975,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.010433916723490384,"Male",0
+7,"Two Or More",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",991,252.83196000505947,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.010726152980268642,"Female",1
+8,"White Non-Hispanic",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",7870,595.5140636458555,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.08518145706832916,"Male",0
+8,"White Non-Hispanic",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",8036,556.9075327197505,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.08697816886926216,"Female",1
+9,"Hispanic",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",1602,267.6975905756344,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01733935123550995,"Male",0
+9,"Hispanic",2018,"2018",0,"Income In The Past 12 Months Below Poverty Level",1711,275.32163009832703,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.018519119827688845,"Female",1
+1,"White",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",9565,665.203728191597,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09888451240062443,"Male",0
+1,"White",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",9946,626.3345751273835,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10282335183864198,"Female",1
+2,"Black",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",21910,1048.3258081340932,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.22650911308914595,"Male",0
+2,"Black",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",29192,1091.059576741802,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.301791603345429,"Female",1
+3,"Native American",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",37,95.94269122762817,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00038251196642165227,"Male",0
+3,"Native American",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",55,111.35528725660045,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0005685988690051588,"Female",1
+4,"Asian",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1489,244.92243670190774,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.015393522108157844,"Male",0
+4,"Asian",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1151,220.0568108466539,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.011899223604089777,"Female",1
+5,"Pacific Islander",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",54,89.02808545621993,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0005582607077505195,"Male",0
+5,"Pacific Islander",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",65,88.63972021616495,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0006719804815515512,"Female",1
+6,"Other",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",467,208.38426044209768,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00482792130591653,"Male",0
+6,"Other",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",585,198.6781316602308,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.006047824333963961,"Female",1
+7,"Two Or More",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1026,212.13674834879504,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01060695344725987,"Male",0
+7,"Two Or More",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",930,241.53674668671022,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.009614489966814502,"Female",1
+8,"White Non-Hispanic",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",8430,621.3726740049002,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.08715069937660888,"Male",0
+8,"White Non-Hispanic",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",8541,569.5726468151363,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.08829823527587383,"Female",1
+9,"Hispanic",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1507,250.25387109893026,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01557960901074135,"Male",0
+9,"Hispanic",2017,"2017",0,"Income In The Past 12 Months Below Poverty Level",1779,268.2573391353907,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.018391588872003227,"Female",1
+1,"White",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",10195,647.7545831563062,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09837505065905013,"Male",0
+1,"White",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",10532,652.4385028491191,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10162687920952583,"Female",1
+2,"Black",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",23525,1005.700253554706,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.22700079124611613,"Male",0
+2,"Black",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",31451,1040.7780743270873,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.30348148291101373,"Female",1
+3,"Native American",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",9,91.14823092084673,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.000086844085917749,"Male",0
+3,"Native American",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",58,91.97282207261013,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0005596618870254936,"Female",1
+4,"Asian",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1525,232.22618284767114,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01471524789161858,"Male",0
+4,"Asian",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1152,211.82303935124716,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.011116042997471872,"Female",1
+5,"Pacific Islander",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",51,90.00555538409839,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0004921164868672443,"Male",0
+5,"Pacific Islander",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",56,87.78952101475437,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0005403632012659938,"Female",1
+6,"Other",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",514,204.05881505095533,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.004959762240191443,"Male",0
+6,"Other",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",456,152.56474035634838,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.004400100353165949,"Female",1
+7,"Two Or More",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1159,251.04780421266386,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.011183588397630121,"Male",0
+7,"Two Or More",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1233,275.65739605532076,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.011897639770731614,"Female",1
+8,"White Non-Hispanic",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",8943,611.1521905384942,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.08629407337360326,"Male",0
+8,"White Non-Hispanic",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",9304,611.4057572512709,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.08977748615319296,"Female",1
+9,"Hispanic",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1787,270.68431797945,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.017243375726113053,"Male",0
+9,"Hispanic",2016,"2016",0,"Income In The Past 12 Months Below Poverty Level",1684,264.24042082921375,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.016249493409498814,"Female",1
+1,"White",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",10382,704.7985527794449,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09821208967931132,"Male",0
+1,"White",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",10827,628.7877225264501,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10242171979945133,"Female",1
+2,"Black",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",23672,957.6695672307854,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.2239334027055151,"Male",0
+2,"Black",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",32495,1019.0686924834853,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.30739759719988646,"Female",1
+3,"Native American",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",11,91.47677300823418,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0001040582726326743,"Male",0
+3,"Native American",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",52,91.37286249209883,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0004919118342635512,"Female",1
+4,"Asian",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1395,237.14341652257605,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.013196480938416423,"Male",0
+4,"Asian",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1113,198.69826370655585,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.010528805221833318,"Female",1
+5,"Pacific Islander",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",68,90.89004345911603,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0006432693217292593,"Male",0
+5,"Pacific Islander",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",50,87.25823743349392,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0004729921483303377,"Female",1
+6,"Other",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",415,169.84110221027183,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.003925834831141803,"Male",0
+6,"Other",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",417,135.98161640457138,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0039447545170750165,"Female",1
+7,"Two Or More",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1217,260.43809245192995,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01151262889036042,"Male",0
+7,"Two Or More",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1302,296.6614231746352,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.012316715542521995,"Female",1
+8,"White Non-Hispanic",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",9393,670.6250815470594,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.08885630498533724,"Male",0
+8,"White Non-Hispanic",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",9789,612.6483493816007,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09260240280011352,"Female",1
+9,"Hispanic",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1517,255.740102447778,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.014350581780342446,"Male",0
+9,"Hispanic",2015,"2015",0,"Income In The Past 12 Months Below Poverty Level",1595,245.68882758481305,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.015088449531737774,"Female",1
+1,"White",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",10588,736.5894378824612,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09783954610138794,"Male",0
+1,"White",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",10938,692.6066704847708,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10107375852445989,"Female",1
+2,"Black",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",24730,982.3405723067738,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.22852020920734073,"Male",0
+2,"Black",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",33736,1084.5017289059524,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.3117411151564435,"Female",1
+3,"Native American",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",38,94.01063769595439,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00035114306307638287,"Male",0
+3,"Native American",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",39,87.39565206576354,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00036038366999944555,"Female",1
+4,"Asian",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1302,246.61711213944588,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.012031270213827645,"Male",0
+4,"Asian",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1056,218.46281148058128,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00975808091075422,"Female",1
+5,"Pacific Islander",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",38,94.93155429044654,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00035114306307638287,"Male",0
+5,"Pacific Islander",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",0,93.74433316206373,"St. Louis city, MO","05000US29510","st-louis-city-mo",0,"Female",1
+6,"Other",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",456,183.33575755972973,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.004213716756916595,"Male",0
+6,"Other",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",360,124.20144926690672,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0033266184923025745,"Female",1
+7,"Two Or More",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1088,251.00000000000003,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.010053780332292225,"Male",0
+7,"Two Or More",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1345,291.5921809651281,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01242861631151934,"Female",1
+8,"White Non-Hispanic",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",9412,679.6234251407171,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0869725923598662,"Male",0
+8,"White Non-Hispanic",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",9960,651.6908776406187,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09203644495370455,"Female",1
+9,"Hispanic",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1710,293.26097592417574,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.015801437838437227,"Male",0
+9,"Hispanic",2014,"2014",0,"Income In The Past 12 Months Below Poverty Level",1422,261.8931079658264,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01314014304459517,"Female",1
+1,"White",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",10426,745.5380607319789,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09695357833655706,"Male",0
+1,"White",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",10855,706.4516968625668,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.10094294003868472,"Female",1
+2,"Black",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",24886,1018.0717067083242,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.23142017556911174,"Male",0
+2,"Black",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",33061,1120.9763601432458,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.3074412289837822,"Female",1
+3,"Native American",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",76,108.4665847162157,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0007067400684421961,"Male",0
+3,"Native American",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",72,96.87620966986684,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.0006695432227347121,"Female",1
+4,"Asian",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",1240,248.30424885611603,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.011531022169320043,"Male",0
+4,"Asian",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",1075,219.264680238291,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.009996652283886326,"Female",1
+5,"Pacific Islander",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",26,91.21403400793103,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.00024177949709864604,"Male",0
+5,"Pacific Islander",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",0,93.74433316206373,"St. Louis city, MO","05000US29510","st-louis-city-mo",0,"Female",1
+6,"Other",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",624,208.30026404207942,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.005802707930367505,"Male",0
+6,"Other",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",578,162.83427157696258,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.005374944204731439,"Female",1
+7,"Two Or More",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",921,232.5059139032812,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.008564573724148192,"Male",0
+7,"Two Or More",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",945,226.15481423131365,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.008787754798393096,"Female",1
+8,"White Non-Hispanic",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",9595,705.5898241896633,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.08922593364082726,"Male",0
+8,"White Non-Hispanic",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",10157,690.5114046849625,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.09445209046272876,"Female",1
+9,"Hispanic",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",1611,269.5217987473369,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.014981029608689184,"Male",0
+9,"Hispanic",2013,"2013",0,"Income In The Past 12 Months Below Poverty Level",1388,219.765784416046,"St. Louis city, MO","05000US29510","st-louis-city-mo",0.01290730546049695,"Female",1
